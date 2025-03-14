@@ -1,5 +1,5 @@
 # SolarBIPV
-This web-based application assesses Building Integrated Photovoltaic (BIPV) potential using LoD-1 3D city models derived from Indian satellite data. It simulates building shadows and calculates incident solar energy on vertical surfaces and rootop. The application renders buildings dynamically based on available BIPV energy potential. \
+This web-based application assesses Building Integrated Photovoltaic (BIPV) potential using LoD-1 3D city models derived from Indian satellite data. It simulates building shadows and calculates incident solar energy on vertical surfaces and rootop. The application renders buildings dynamically based on available BIPV energy potential.\
 
 1)Give the building_data.csv file path in solar.py\
 2)Once the code is executed, result.geojson file is created (already obtained results4.geojson is provided)\
